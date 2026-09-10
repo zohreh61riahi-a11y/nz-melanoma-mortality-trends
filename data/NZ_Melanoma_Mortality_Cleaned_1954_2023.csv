@@ -1,0 +1,211 @@
+year,cancer,icd_code,measure,sex,deaths,asr,data_status
+1954,Melanoma,C43,Deaths,All sex,38,1.9,Complete
+1954,Melanoma,C43,Deaths,Male,21,2.2,Complete
+1954,Melanoma,C43,Deaths,Female,17,1.7,Complete
+1955,Melanoma,C43,Deaths,All sex,39,1.9,Complete
+1955,Melanoma,C43,Deaths,Male,22,2.1,Complete
+1955,Melanoma,C43,Deaths,Female,17,1.7,Complete
+1956,Melanoma,C43,Deaths,All sex,39,1.9,Complete
+1956,Melanoma,C43,Deaths,Male,22,2.2,Complete
+1956,Melanoma,C43,Deaths,Female,17,1.6,Complete
+1957,Melanoma,C43,Deaths,All sex,37,1.7,Complete
+1957,Melanoma,C43,Deaths,Male,20,1.9,Complete
+1957,Melanoma,C43,Deaths,Female,17,1.6,Complete
+1958,Melanoma,C43,Deaths,All sex,38,1.8,Complete
+1958,Melanoma,C43,Deaths,Male,20,1.8,Complete
+1958,Melanoma,C43,Deaths,Female,18,1.6,Complete
+1959,Melanoma,C43,Deaths,All sex,47,2.1,Complete
+1959,Melanoma,C43,Deaths,Male,23,2.1,Complete
+1959,Melanoma,C43,Deaths,Female,24,2.0,Complete
+1960,Melanoma,C43,Deaths,All sex,50,2.2,Complete
+1960,Melanoma,C43,Deaths,Male,26,2.3,Complete
+1960,Melanoma,C43,Deaths,Female,24,2.1,Complete
+1961,Melanoma,C43,Deaths,All sex,50,2.2,Complete
+1961,Melanoma,C43,Deaths,Male,22,2.0,Complete
+1961,Melanoma,C43,Deaths,Female,28,2.4,Complete
+1962,Melanoma,C43,Deaths,All sex,42,1.7,Complete
+1962,Melanoma,C43,Deaths,Male,22,1.9,Complete
+1962,Melanoma,C43,Deaths,Female,20,1.5,Complete
+1963,Melanoma,C43,Deaths,All sex,53,2.2,Complete
+1963,Melanoma,C43,Deaths,Male,29,2.5,Complete
+1963,Melanoma,C43,Deaths,Female,24,2.0,Complete
+1964,Melanoma,C43,Deaths,All sex,50,2.1,Complete
+1964,Melanoma,C43,Deaths,Male,25,2.2,Complete
+1964,Melanoma,C43,Deaths,Female,25,2.0,Complete
+1965,Melanoma,C43,Deaths,All sex,64,2.6,Complete
+1965,Melanoma,C43,Deaths,Male,34,2.9,Complete
+1965,Melanoma,C43,Deaths,Female,30,2.3,Complete
+1966,Melanoma,C43,Deaths,All sex,60,2.4,Complete
+1966,Melanoma,C43,Deaths,Male,24,2.0,Complete
+1966,Melanoma,C43,Deaths,Female,36,2.9,Complete
+1967,Melanoma,C43,Deaths,All sex,69,2.7,Complete
+1967,Melanoma,C43,Deaths,Male,40,3.3,Complete
+1967,Melanoma,C43,Deaths,Female,29,2.2,Complete
+1968,Melanoma,C43,Deaths,All sex,81,3.1,Complete
+1968,Melanoma,C43,Deaths,Male,40,3.3,Complete
+1968,Melanoma,C43,Deaths,Female,41,2.9,Complete
+1969,Melanoma,C43,Deaths,All sex,79,3.0,Complete
+1969,Melanoma,C43,Deaths,Male,55,4.3,Complete
+1969,Melanoma,C43,Deaths,Female,24,1.7,Complete
+1970,Melanoma,C43,Deaths,All sex,74,2.7,Complete
+1970,Melanoma,C43,Deaths,Male,36,2.8,Complete
+1970,Melanoma,C43,Deaths,Female,38,2.7,Complete
+1971,Melanoma,C43,Deaths,All sex,75,2.8,Complete
+1971,Melanoma,C43,Deaths,Male,41,3.2,Complete
+1971,Melanoma,C43,Deaths,Female,34,2.4,Complete
+1972,Melanoma,C43,Deaths,All sex,73,2.6,Complete
+1972,Melanoma,C43,Deaths,Male,44,3.3,Complete
+1972,Melanoma,C43,Deaths,Female,29,1.9,Complete
+1973,Melanoma,C43,Deaths,All sex,73,2.5,Complete
+1973,Melanoma,C43,Deaths,Male,44,3.2,Complete
+1973,Melanoma,C43,Deaths,Female,29,1.9,Complete
+1974,Melanoma,C43,Deaths,All sex,57,2.0,Complete
+1974,Melanoma,C43,Deaths,Male,38,2.8,Complete
+1974,Melanoma,C43,Deaths,Female,19,1.4,Complete
+1975,Melanoma,C43,Deaths,All sex,103,3.5,Complete
+1975,Melanoma,C43,Deaths,Male,63,4.4,Complete
+1975,Melanoma,C43,Deaths,Female,40,2.6,Complete
+1976,Melanoma,C43,Deaths,All sex,132,4.5,Complete
+1976,Melanoma,C43,Deaths,Male,61,4.3,Complete
+1976,Melanoma,C43,Deaths,Female,71,4.7,Complete
+1977,Melanoma,C43,Deaths,All sex,127,4.1,Complete
+1977,Melanoma,C43,Deaths,Male,71,4.8,Complete
+1977,Melanoma,C43,Deaths,Female,56,3.4,Complete
+1978,Melanoma,C43,Deaths,All sex,99,3.3,Complete
+1978,Melanoma,C43,Deaths,Male,52,3.6,Complete
+1978,Melanoma,C43,Deaths,Female,47,3.0,Complete
+1979,Melanoma,C43,Deaths,All sex,119,3.9,Complete
+1979,Melanoma,C43,Deaths,Male,68,4.6,Complete
+1979,Melanoma,C43,Deaths,Female,51,3.1,Complete
+1980,Melanoma,C43,Deaths,All sex,124,3.9,Complete
+1980,Melanoma,C43,Deaths,Male,74,5.1,Complete
+1980,Melanoma,C43,Deaths,Female,50,2.9,Complete
+1981,Melanoma,C43,Deaths,All sex,121,3.8,Complete
+1981,Melanoma,C43,Deaths,Male,74,5.0,Complete
+1981,Melanoma,C43,Deaths,Female,47,2.8,Complete
+1982,Melanoma,C43,Deaths,All sex,141,4.3,Complete
+1982,Melanoma,C43,Deaths,Male,84,5.5,Complete
+1982,Melanoma,C43,Deaths,Female,57,3.4,Complete
+1983,Melanoma,C43,Deaths,All sex,134,4.0,Complete
+1983,Melanoma,C43,Deaths,Male,80,4.9,Complete
+1983,Melanoma,C43,Deaths,Female,54,3.1,Complete
+1984,Melanoma,C43,Deaths,All sex,161,4.7,Complete
+1984,Melanoma,C43,Deaths,Male,90,5.6,Complete
+1984,Melanoma,C43,Deaths,Female,71,4.0,Complete
+1985,Melanoma,C43,Deaths,All sex,160,4.6,Complete
+1985,Melanoma,C43,Deaths,Male,100,6.3,Complete
+1985,Melanoma,C43,Deaths,Female,60,3.2,Complete
+1986,Melanoma,C43,Deaths,All sex,159,4.4,Complete
+1986,Melanoma,C43,Deaths,Male,88,5.3,Complete
+1986,Melanoma,C43,Deaths,Female,71,3.6,Complete
+1987,Melanoma,C43,Deaths,All sex,150,4.2,Complete
+1987,Melanoma,C43,Deaths,Male,83,5.0,Complete
+1987,Melanoma,C43,Deaths,Female,67,3.5,Complete
+1988,Melanoma,C43,Deaths,All sex,170,4.5,Complete
+1988,Melanoma,C43,Deaths,Male,101,5.8,Complete
+1988,Melanoma,C43,Deaths,Female,69,3.4,Complete
+1989,Melanoma,C43,Deaths,All sex,166,4.4,Complete
+1989,Melanoma,C43,Deaths,Male,95,5.5,Complete
+1989,Melanoma,C43,Deaths,Female,71,3.5,Complete
+1990,Melanoma,C43,Deaths,All sex,188,4.9,Complete
+1990,Melanoma,C43,Deaths,Male,115,6.5,Complete
+1990,Melanoma,C43,Deaths,Female,73,3.4,Complete
+1991,Melanoma,C43,Deaths,All sex,180,4.7,Complete
+1991,Melanoma,C43,Deaths,Male,109,6.2,Complete
+1991,Melanoma,C43,Deaths,Female,71,3.4,Complete
+1992,Melanoma,C43,Deaths,All sex,182,4.5,Complete
+1992,Melanoma,C43,Deaths,Male,99,5.5,Complete
+1992,Melanoma,C43,Deaths,Female,83,3.8,Complete
+1993,Melanoma,C43,Deaths,All sex,194,4.6,Complete
+1993,Melanoma,C43,Deaths,Male,112,6.0,Complete
+1993,Melanoma,C43,Deaths,Female,82,3.5,Complete
+1994,Melanoma,C43,Deaths,All sex,193,4.6,Complete
+1994,Melanoma,C43,Deaths,Male,114,6.0,Complete
+1994,Melanoma,C43,Deaths,Female,79,3.4,Complete
+1995,Melanoma,C43,Deaths,All sex,197,4.6,Complete
+1995,Melanoma,C43,Deaths,Male,126,6.5,Complete
+1995,Melanoma,C43,Deaths,Female,71,3.2,Complete
+1996,Melanoma,C43,Deaths,All sex,195,4.3,Complete
+1996,Melanoma,C43,Deaths,Male,108,5.2,Complete
+1996,Melanoma,C43,Deaths,Female,87,3.6,Complete
+1997,Melanoma,C43,Deaths,All sex,201,4.3,Complete
+1997,Melanoma,C43,Deaths,Male,121,5.8,Complete
+1997,Melanoma,C43,Deaths,Female,80,3.2,Complete
+1998,Melanoma,C43,Deaths,All sex,242,5.1,Complete
+1998,Melanoma,C43,Deaths,Male,140,6.5,Complete
+1998,Melanoma,C43,Deaths,Female,102,3.8,Complete
+1999,Melanoma,C43,Deaths,All sex,231,4.8,Complete
+1999,Melanoma,C43,Deaths,Male,146,6.6,Complete
+1999,Melanoma,C43,Deaths,Female,85,3.3,Complete
+2000,Melanoma,C43,Deaths,All sex,253,5.1,Complete
+2000,Melanoma,C43,Deaths,Male,155,7.0,Complete
+2000,Melanoma,C43,Deaths,Female,98,3.7,Complete
+2001,Melanoma,C43,Deaths,All sex,244,4.7,Complete
+2001,Melanoma,C43,Deaths,Male,156,6.7,Complete
+2001,Melanoma,C43,Deaths,Female,88,3.1,Complete
+2002,Melanoma,C43,Deaths,All sex,235,4.6,Complete
+2002,Melanoma,C43,Deaths,Male,149,6.3,Complete
+2002,Melanoma,C43,Deaths,Female,86,3.1,Complete
+2003,Melanoma,C43,Deaths,All sex,285,5.2,Complete
+2003,Melanoma,C43,Deaths,Male,174,7.1,Complete
+2003,Melanoma,C43,Deaths,Female,111,3.6,Complete
+2004,Melanoma,C43,Deaths,All sex,250,4.4,Complete
+2004,Melanoma,C43,Deaths,Male,152,6.1,Complete
+2004,Melanoma,C43,Deaths,Female,98,3.1,Complete
+2005,Melanoma,C43,Deaths,All sex,269,4.8,Complete
+2005,Melanoma,C43,Deaths,Male,156,6.1,Complete
+2005,Melanoma,C43,Deaths,Female,113,3.7,Complete
+2006,Melanoma,C43,Deaths,All sex,287,4.7,Complete
+2006,Melanoma,C43,Deaths,Male,173,6.4,Complete
+2006,Melanoma,C43,Deaths,Female,114,3.4,Complete
+2007,Melanoma,C43,Deaths,All sex,292,4.8,Complete
+2007,Melanoma,C43,Deaths,Male,178,6.4,Complete
+2007,Melanoma,C43,Deaths,Female,114,3.4,Complete
+2008,Melanoma,C43,Deaths,All sex,317,5.1,Complete
+2008,Melanoma,C43,Deaths,Male,202,7.2,Complete
+2008,Melanoma,C43,Deaths,Female,115,3.3,Complete
+2009,Melanoma,C43,Deaths,All sex,326,5.1,Complete
+2009,Melanoma,C43,Deaths,Male,213,7.3,Complete
+2009,Melanoma,C43,Deaths,Female,113,3.3,Complete
+2010,Melanoma,C43,Deaths,All sex,324,4.9,Complete
+2010,Melanoma,C43,Deaths,Male,199,6.6,Complete
+2010,Melanoma,C43,Deaths,Female,125,3.5,Complete
+2011,Melanoma,C43,Deaths,All sex,359,5.4,Complete
+2011,Melanoma,C43,Deaths,Male,243,7.9,Complete
+2011,Melanoma,C43,Deaths,Female,116,3.2,Complete
+2012,Melanoma,C43,Deaths,All sex,354,5.1,Complete
+2012,Melanoma,C43,Deaths,Male,222,6.8,Complete
+2012,Melanoma,C43,Deaths,Female,132,3.6,Complete
+2013,Melanoma,C43,Deaths,All sex,356,4.9,Complete
+2013,Melanoma,C43,Deaths,Male,232,6.9,Complete
+2013,Melanoma,C43,Deaths,Female,124,3.1,Complete
+2014,Melanoma,C43,Deaths,All sex,378,5.0,Complete
+2014,Melanoma,C43,Deaths,Male,237,6.9,Complete
+2014,Melanoma,C43,Deaths,Female,141,3.4,Complete
+2015,Melanoma,C43,Deaths,All sex,378,4.9,Complete
+2015,Melanoma,C43,Deaths,Male,255,7.2,Complete
+2015,Melanoma,C43,Deaths,Female,123,3.0,Complete
+2016,Melanoma,C43,Deaths,All sex,364,4.5,Complete
+2016,Melanoma,C43,Deaths,Male,243,6.4,Complete
+2016,Melanoma,C43,Deaths,Female,121,2.9,Complete
+2017,Melanoma,C43,Deaths,All sex,310,3.7,Complete
+2017,Melanoma,C43,Deaths,Male,202,5.3,Complete
+2017,Melanoma,C43,Deaths,Female,108,2.4,Complete
+2018,Melanoma,C43,Deaths,All sex,296,3.3,Complete
+2018,Melanoma,C43,Deaths,Male,192,4.8,Complete
+2018,Melanoma,C43,Deaths,Female,104,2.1,Complete
+2019,Melanoma,C43,Deaths,All sex,329,3.7,Complete
+2019,Melanoma,C43,Deaths,Male,217,5.3,Complete
+2019,Melanoma,C43,Deaths,Female,112,2.3,Complete
+2020,Melanoma,C43,Deaths,All sex,294,3.2,Complete
+2020,Melanoma,C43,Deaths,Male,198,4.6,Complete
+2020,Melanoma,C43,Deaths,Female,96,2.0,Complete
+2021,Melanoma,C43,Deaths,All sex,333,3.5,Complete
+2021,Melanoma,C43,Deaths,Male,217,4.9,Complete
+2021,Melanoma,C43,Deaths,Female,116,2.3,Complete
+2022,Melanoma,C43,Deaths,All sex,316,3.2,Provisional
+2022,Melanoma,C43,Deaths,Male,196,4.3,Provisional
+2022,Melanoma,C43,Deaths,Female,120,2.2,Provisional
+2023,Melanoma,C43,Deaths,All sex,336,3.4,Preliminary
+2023,Melanoma,C43,Deaths,Male,226,4.9,Preliminary
+2023,Melanoma,C43,Deaths,Female,110,2.1,Preliminary

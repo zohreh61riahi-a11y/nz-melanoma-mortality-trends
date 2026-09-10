@@ -1,0 +1,13 @@
+sex,comparison_period,years,mean_deaths,mean_asr,baseline_asr,asr_change_from_late_pre_pct
+All sex,Late pre-introduction (2012–2015),4,366.5,4.97,4.97,0.0
+All sex,Transition year (2016),1,364.0,4.5,4.97,-9.5
+All sex,Early post-introduction (2017–2020),4,307.2,3.48,4.97,-30.2
+All sex,Recent post-introduction (2021–2023),3,328.3,3.37,4.97,-32.3
+Female,Late pre-introduction (2012–2015),4,130.0,3.28,3.28,0.0
+Female,Transition year (2016),1,121.0,2.9,3.28,-11.5
+Female,Early post-introduction (2017–2020),4,105.0,2.2,3.28,-32.8
+Female,Recent post-introduction (2021–2023),3,115.3,2.2,3.28,-32.8
+Male,Late pre-introduction (2012–2015),4,236.5,6.95,6.95,0.0
+Male,Transition year (2016),1,243.0,6.4,6.95,-7.9
+Male,Early post-introduction (2017–2020),4,202.2,5.0,6.95,-28.1
+Male,Recent post-introduction (2021–2023),3,213.0,4.7,6.95,-32.4

@@ -1,0 +1,5 @@
+model_term,estimate,standard_error,ci_lower,ci_upper,p_value
+const,4.783,0.085,4.617,4.949,0.0
+time,0.018,0.009,-0.0,0.036,0.051
+post_introduction,-1.523,0.124,-1.765,-1.281,0.0
+time_after_introduction,-0.065,0.015,-0.094,-0.035,0.0

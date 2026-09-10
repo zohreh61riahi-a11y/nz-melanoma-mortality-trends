@@ -1,0 +1,4 @@
+post_period_begins,transition_years_excluded,observations,level_change,level_change_ci_lower,level_change_ci_upper,level_change_p_value,post_period_annual_slope,post_slope_p_value,r_squared
+2017,2016,23,-1.523,-1.765,-1.281,0.0,-0.046,0.001,0.913
+2018,2016–2017,22,-1.675,-1.915,-1.436,0.0,-0.02,0.206,0.911
+2019,2016–2018,21,-1.607,-1.917,-1.296,0.0,-0.06,0.034,0.901
